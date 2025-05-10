@@ -12,6 +12,7 @@ packages=(
     "neovim"
     "gcc"
     "make"
+    "git"
 )
 
 for pkg in "${packages[@]}"; do
